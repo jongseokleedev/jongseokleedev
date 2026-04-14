@@ -22,11 +22,12 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jongseokleedev&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jongseokleedev&theme=radical" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jongseokleedev&theme=radical" alt="Top Languages by Repo" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jongseokleedev&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jongseokleedev&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jongseokleedev&theme=radical" alt="Contribution Graph" />
 
 <br/>
 
